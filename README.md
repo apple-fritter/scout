@@ -59,4 +59,10 @@ adb shell settings put global settings_global_send_action_opt_out 1
 ```
 This command will turn off usage and diagnostics reporting.
 
-Note: These commands may not work on all Android devices or versions. Additionally, some settings may be located in different places depending on the device and version of Android. Please be careful when entering these commands, as they may have unintended consequences if entered incorrectly.
+## Note:
+
+These commands may not work on all Android devices or versions. Additionally, some settings may be located in different places depending on the device and version of Android. Please be careful when entering these commands, as they may have unintended consequences if entered incorrectly.
+
+## License
+
+This script is released under the [MIT License](LICENSE).
